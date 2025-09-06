@@ -85,3 +85,5 @@ Through this project, one gains a strong understanding of how to handle files ef
 *OUTPUT* :
 
 <img width="387" height="196" alt="Image" src="https://github.com/user-attachments/assets/c2560d2f-92ec-4959-981c-7ad157eb425f" />
+
+<img width="387" height="178" alt="Image" src="https://github.com/user-attachments/assets/54268767-011a-4fd8-95c5-d7ed8dcab2a0" />
