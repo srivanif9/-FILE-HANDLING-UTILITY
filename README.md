@@ -81,3 +81,7 @@ CONCLUSION
 The File Handling Utility demonstrates the practical implementation of file operations in Java using simple yet powerful tools from the java.io package. By combing reading,writing, and modification capabilities, the project hightlights the essential skills required to work with persistent data storage in real -world applications. Developed and executed in VS Code, the program runs on any platform that supports Java, making it versatile and portable. Its application range from basic file editing tools to log management system, showcasing the importance of file handling in software development.
 
 Through this project, one gains a strong understanding of how to handle files effectively, preparing the ground for tackling more complex progamming challenges in future development tasks.
+
+*OUTPUT* :
+
+<img width="387" height="196" alt="Image" src="https://github.com/user-attachments/assets/c2560d2f-92ec-4959-981c-7ad157eb425f" />
